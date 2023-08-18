@@ -91,7 +91,7 @@
 
 ## 1 Background
 
-코드 형식을 올바르게 지정할 수 있도록 [settings file for Vim](python_style.vim)을 지원합니다.   
+코드 형식을 올바르게 지정할 수 있도록 [settings file for Vim](google-python-style.vim)을 지원합니다.   
 Emacs의 경우 기본값 설정이 바람직해야 합니다.
 
 많은 팀에서 서식에 대한 논쟁을 피하기 위해 [Black](https://github.com/psf/black) 또는 [Pyink](https://github.com/google/pyink) 와 같은 자동 포맷터를 사용합니다.
