@@ -1,6 +1,6 @@
 # 구글 C++ 스타일 가이드
 
-> 이 문서는 Google Java Style Guide를 번역하며 정리한 문서입니다. 약간의 의역이 섞여 있을 수 있지만 본 의도는 해치지 않습니다.
+> 이 문서는 Google CPP Style Guide를 번역하며 정리한 문서입니다. 약간의 의역이 섞여 있을 수 있지만 본 의도는 해치지 않습니다.
 
 원문 주소 : https://google.github.io/styleguide/cppguide.html
 
